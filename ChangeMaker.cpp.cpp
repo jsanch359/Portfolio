@@ -1,5 +1,6 @@
 // ChangeMaker.cpp.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// This code will tell you what is your change and how much is left in stock in the machine. It works similar to a ATM machine where you put in how much the item cost and you 
+// deposit either a nickel, dime, quarter, a dollar, and five dollars depeding on the price of the item. 
 
 #include <iostream>
 #include <cmath>
