@@ -1,5 +1,5 @@
 // WaterBill.cpp.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// This code will give you the average monthly bill and tell you if you exceed over the water limit
 
 #include <iostream>
 using namespace std;
