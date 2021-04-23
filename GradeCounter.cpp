@@ -1,5 +1,5 @@
 // GradeCounter.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// This code will count the number of specific grades you got using vectors.
 
 #include <iostream>
 #include <vector> 
