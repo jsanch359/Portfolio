@@ -1,5 +1,5 @@
 // DentistBill.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// This code will asked about your dental plan from two options and asked specific charges based on the plan your are in.
 
 #include <iostream>
 using namespace std;
