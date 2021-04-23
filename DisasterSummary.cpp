@@ -1,5 +1,5 @@
 // DisasterSummary.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// From a file, the code will read it and give you the range, disaster name, and summary report.
 
 #include <iostream>
 #include <string>
@@ -546,7 +546,7 @@ int main()
     {
         cout << "File does not exist." << endl;
     }
-    //file >> row >> col;
+  
     for (int row = 0; row < 100; row++)
     {
         for (int col = 0; col < 6; col++)
@@ -554,7 +554,7 @@ int main()
             file >> text[row][col];
         }
     }
-    //file.close();
+ 
 
 
 
