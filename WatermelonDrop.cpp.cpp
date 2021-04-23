@@ -1,5 +1,5 @@
 // WatermelonDrop.cpp.cpp : This file contains the 'main' function. Program execution begins and ends there.
-
+// This code will give you the distance fallen from a bridge of any height and time
 #include <iostream>
 #include <cmath>
 using namespace std;
