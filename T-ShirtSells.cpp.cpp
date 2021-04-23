@@ -1,5 +1,5 @@
 // T-ShirtSells.cpp.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// A code that will ask how many shirt you would like and will give you the cost per shit and the total per shirt.
 
 #include <iostream>
 using namespace std;
