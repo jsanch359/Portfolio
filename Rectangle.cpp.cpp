@@ -1,5 +1,5 @@
 // Rectangle.cpp.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// This code will generate the area of a rectangle given length and width by the user.
 
 #include <iostream>
 using namespace std;
